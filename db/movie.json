@@ -1,0 +1,41 @@
+{
+  "movie1": {
+    "picture": "../img/01.jpg",
+    "Name": "The Happy Prince",
+    "Genre": "Comices",
+    "Estimated_Release_Date": "June 15, 2019",
+    "Description": "In a town where a lot of poor people suffer and where there are a lot of miseries, a swallow who was left behind after his flock flew off to Egypt for the winter, meets the statue of the late 'Happy Prince,' who in reality has never experienced true sorrow, for he lived in a palace where sorrow was not allowed to enter. Viewing various scenes of people suffering in poverty from his tall monument, the Happy Prince asks the swallow to take the ruby from his hilt, the sapphires from his eyes, and...",
+    "locations": [
+      "location1",
+      "location3"
+    ]
+  },
+  "movie2": {
+    "picture": "../img/02.jpg",
+    "Name": "Damsel",
+    "Genre": "Comices",
+    "Estimated_Release_Date": "Aug 10, 2019",
+    "Description": "Samuel Alabaster (Robert Pattinson), an affluent pioneer, ventures across the American Frontier to marry the love of his life, Penelope (Mia Wasikowska). As Samuel traverses the Wild West with a drunkard named Parson Henry (David Zellner) and a miniature horse called Butterscotch, their once-simple journey grows treacherous, blurring the lines between hero, villain and damsel. ...",
+    "locations": [
+      "location2",
+      "location4",
+      "location6",
+      "location8",
+      "location7",
+      "location12"
+    ]
+  },
+  "movie3": {
+    "picture": "../img/03.jpg",
+    "Name": "Ready Player One",
+    "Genre": "Action & Adventure",
+    "Estimated_Release_Date": "Feb 25, 2019",
+    "Description": "In the year 2045, people can escape their harsh reality in the OASIS, an immersive virtual world where you can go anywhere, do anything, be anyone-the only limits are your own imagination. OASIS creator James Halliday left his immense fortune and control of the Oasis to the winner of a contest designed to find a worthy heir. ...",
+    "locations": [
+      "location9",
+      "location10",
+      "location11",
+      "location5"
+    ]
+  }
+}

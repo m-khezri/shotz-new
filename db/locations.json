@@ -1,0 +1,86 @@
+{
+  "location1": {
+    "id": "location1",
+    "location_image": "http://nashvilletopspots.com/wp-content/uploads/2015/09/Regal-Opry-Mills-Stadium-20-IMAX-RPX-Nashville-Top-Spots-Recommendation-1.jpg",
+    "name": "Regal Cinemas Opry Mills",
+    "location": "570 Opry Mills Dr, Nashville, TN 37214",
+    "shoot_time": "Morning"
+  },
+  "location2": {
+    "id": "location2",
+    "location_image": "https://www.vacationsmadeeasy.com/images/poi/231/10911.jpg",
+    "name": "Texas Troubadour Theatre",
+    "location": "2416 Music Valley Dr, Nashville, TN 37214",
+    "shoot_time": "Afternoon"
+  },
+  "location3": {
+    "id": "location3",
+    "location_image": "https://www.nashville.gov/portals/0/SiteContent/Parks/images/culturalarts/Theater/looby%201.jpg",
+    "name": "Z. Alexander Looby Theatre",
+    "location": "2301 Rosa L Parks Blvd, Nashville, TN 37228",
+    "shoot_time": "Evening"
+  },
+  "location4": {
+    "id": "location4",
+    "location_image": "https://s3-media2.fl.yelpcdn.com/bphoto/f_sGdL58ka7ufDh7fT3Adw/ls.jpg",
+    "name": "Full Moon Cineplex",
+    "location": "3445 Lebanon Pike, Hermitage, TN 37076",
+    "shoot_time": "After Dark"
+  },
+  "location5": {
+    "id": "location5",
+    "location_image": "https://s3-media1.fl.yelpcdn.com/bphoto/xGNgDlBboN7h0NgFTHVKJw/ls.jpg",
+    "name": "Belcourt Theatre",
+    "location": "2102 Belcourt Ave, Nashville, TN 37212",
+    "shoot_time": "Morning"
+  },
+  "location6": {
+    "id": "location6",
+    "location_image": "https://s3-media1.fl.yelpcdn.com/bphoto/AxP1j7CQLGMjb0fRymSUWQ/ls.jpg",
+    "name": "Regal Cinemas Hollywood",
+    "location": "719 Thompson Ln, Nashville, TN 37204",
+    "shoot_time": "Afternoon"
+  },
+  "location7": {
+    "id": "location7",
+    "location_image": "https://images1-citysearch-net.akamaized.net/assets/imgdb2/reinvent/profile/2012/8/6/13/ZESTJDWG.jpg",
+    "name": "Regal Cinemas Green Hills",
+    "location": "3815 Green Hills Village Dr, Nashville, TN 37215",
+    "shoot_time": "Evening"
+  },
+  "location8": {
+    "id": "location8",
+    "location_image": "https://c1.staticflickr.com/5/4758/26383154508_517e1d999f_b.jpg",
+    "name": "AMC Antioch 8",
+    "location": "901 Bell Rd, Antioch, TN 37013",
+    "shoot_time": "After Dark"
+  },
+  "location9": {
+    "id": "location9",
+    "location_image": "https://lh3.googleusercontent.com/p/AF1QipPNda8__p-QqkKUDzQOwCoHPkkP6HUBzFVGDB2L=s1600-w800",
+    "name": "AMC Bellevue 12",
+    "location": "8125 Sawyer Brown Rd, Nashville, TN 37221",
+    "shoot_time": "Morning"
+  },
+  "location10": {
+    "id": "location10",
+    "location_image": "https://i1.wp.com/www.southbayfoodies.com/wp-content/uploads/2012/12/1-Pictured-here-in-one-of-the-larger-halls-at-the-AMC-Dine-In-Theatre-Marina-Del-Rey-each-assigned-seat-is-a-plush-leather-reliner-.jpg",
+    "name": "AMC DINE-IN",
+    "location": "633 Frazier Dr, Franklin, TN 37067",
+    "shoot_time": "Afternoon"
+  },
+  "location11": {
+    "id": "location11",
+    "location_image": "http://downtownfranklintn.com/wp-content/uploads/2015/04/Franklin-Theatre-3.jpg",
+    "name": "Franklin Theatre",
+    "location": "419 Main St, Franklin, TN 37064",
+    "shoot_time": "Evening"
+  },
+  "location12": {
+    "id": "location12",
+    "location_image": "https://www.malco.com/cinemapix/24.jpg",
+    "name": "Malco Cinema",
+    "location": "100 Movie Row, Smyrna, TN 37167",
+    "shoot_time": "After dark"
+  }
+}
