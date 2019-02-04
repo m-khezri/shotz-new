@@ -11,14 +11,7 @@
     "allowTemplateLiterals": true
   },
   "rules": {
-    "no-console": [
-      1,
-      {
-        "allow": [
-          "error"
-        ]
-      }
-    ],
+    "no-console": 1,
     "no-debugger": 1
   }
 }
